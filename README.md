@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MacCygwin
 - 👀 I’m interested in code and operating systems
-- 🌱 I’m currently learning how to make a cli os
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to make a CLI OS in C
 - 📫 How to reach me mdyusufpool@gmail.com
 
 <!---
