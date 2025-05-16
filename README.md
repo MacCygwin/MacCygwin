@@ -1,6 +1,6 @@
 - Hi, I’m @MacCygwin
-- I’m interested in code and operating systems
-- 🌱 I’m currently ricing hyprland on arch linux btw
+- 💻 I’m interested in programming and how computer software works
+- 🌱 I am currently trying to rice Arch Linux 
 - 📫 How to reach me mdyusufpool@gmail.com
 
 <!---
